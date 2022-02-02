@@ -1,5 +1,5 @@
 {
-  "name": "Aluracord - Matrix (peas)",
+  "name": "Trate as pessoas com gentileza.",
   "stickers": [
     "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_1.png",
     "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_2.png",
@@ -41,30 +41,22 @@
   "theme": {
     "colors": {
       "primary": {
-        "050": "#A9D6E5",
-        "100": "#89C2D9",
-        "200": "#61A5C2",
-        "300": "#468FAF",
-        "400": "#2C7DA0",
-        "500": "#2A6F97",
-        "600": "#014F86",
-        "700": "#01497C",
-        "800": "#013A63",
-        "900": "#012A4A"
+        "000": "#cfe1b9",
+        "050": "#b5c99a",
+        "100": "#97a97c",
+        "200": "#87986a",
+        "300": "#718355"
       },
       "neutrals": {
-        "000": "#FFFFFF",
-        "050": "#F5F7FA",
-        "100": "#E4E7EB",
-        "200": "#CBD2D9",
-        "300": "#9AA5B1",
-        "400": "#52667A",
-        "500": "#313D49",
-        "600": "#29333D",
-        "700": "#212931",
-        "800": "#181F25",
-        "900": "#101418",
-        "999": "#080A0C"
+        "000": "#eeeeee",
+        "050": "#e0e2db",
+        "100": "#b8bdb5",
+        "200": "#6c757d",
+        "300": "#363636",
+        "400": "#2f4550",
+        "500": "#495057",
+        "600": "#343a40",
+        "700": "#212529"
       }
     }
   }
